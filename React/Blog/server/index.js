@@ -20,9 +20,7 @@ app.use(express.static(path.resolve("./public")));
 app.use(cookieParser());
 app.use(express.json());
 
-mongoose.connect(
-  "mongodb+srv://shiraz:test123@demodata.xuoptdk.mongodb.net/blogData?retryWrites=true&w=majority"
-);
+mongoose.connect(process.env.MONGO_URI);
 
 app.set("view engine", "ejs");
 
