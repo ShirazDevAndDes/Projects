@@ -1,0 +1,17 @@
+TODO:
+
+Admin
+
+1). Add name input to company details modal
+2). Add description input to company details modal
+
+Student
+
+1). Add Company view for student
+2). Add word (view) when PDF file in Download button
+
+Company
+
+1). Print List of all students applied to vacancy
+2). Add name input to company profile page
+2). Add description input to profile page

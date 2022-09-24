@@ -1,0 +1,11 @@
+{
+    "name": "shiraz/mycomposer",
+    "require": {
+        "phpoffice/phpword": "^0.18.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shiraz\\Mycomposer\\": "src/"
+        }
+    }
+}
