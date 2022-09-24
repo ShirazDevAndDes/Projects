@@ -1,0 +1,73 @@
+/* body, html {
+    height: 100%;
+} */
+
+/* .row {
+    height: 100%;
+} */
+
+#__next {
+  height: 100%;
+}
+
+.header {
+  padding-top: 200px !important;
+  margin-top: -160px;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.btn:hover {
+  color: white;
+}
+
+.btn-orange {
+  background-color: rgb(255, 136, 0);
+  color: white;
+}
+
+.sidebar {
+  height: 100%;
+}
+
+.btn-outline-orange {
+  color: #ff9900;
+  border-color: #ff9900;
+}
+
+.btn-outline-orange:hover {
+  color: #fff;
+  background-color: #ff9900;
+  border-color: #ff9900;
+}
+
+.btn-check:focus + .btn,
+.btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.content {
+  background-color: #fdfdfd;
+  padding: 0;
+}
+
+.form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #ff9900;
+  outline: 0;
+  box-shadow: none;
+}
+
+/* .sidebar .nav-link.active, .sidebar .show>.nav-link{
+    background-color: orange;
+} */
+
+.sidebar .nav-link,
+.sidebar .nav-item,
+.sidebar .nav-item:hover {
+  color: white;
+}

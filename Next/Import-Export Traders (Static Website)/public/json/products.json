@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "name": "Computers", "img": "/computer.png" },
+    { "name": "Laptops", "img": "/laptop.png" },
+    { "name": "Mobiles", "img": "/mobile.png" },
+    { "name": "Tablets", "img": "/ipad.png" },
+    { "name": "TV", "img": "/smart-tv.png" },
+    { "name": "Solar Panels", "img": "/solar-panel.png" }
+  ]
+}

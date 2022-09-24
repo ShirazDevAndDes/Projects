@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+}
+
+.header {
+    padding-top: 200px !important;
+    margin-top: -160px;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.btn-outline-orange {
+    color: #ff9900;
+    border-color: #ff9900;
+}
+
+.btn-outline-orange:hover {
+    color: #fff;
+    background-color: #ff9900;
+    border-color: #ff9900;
+}
+
+.btn-check:focus+.btn, .btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #ff9900;
+    outline: 0;
+    box-shadow: none;
+}
+
+.btn:hover{
+    color: white;
+}
+
+.btn-orange {
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: orange;
+}
+
+.nav-pills .nav-link, .nav-item, .nav-item:hover {
+    color: orange;
+}
